@@ -3,7 +3,7 @@ const chalk = require("chalk");
 
 
 //
-global.available = true;
+global.available = false;
 global.autoReadGc = false;
 global.autoReadAll = false;
 global.antitags = true;
